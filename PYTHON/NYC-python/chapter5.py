@@ -65,6 +65,12 @@
 # print(23 != 56)
 
 #and or and not
+#and= T and T = T
+#and= T and F = F
+#and= F and T = F
+#or= T or T = T
+#or= T or F = T
+#not= not T = F
 
 # print(12 > 10 and 34 == 34 and 45 == 45 and 10 > 20)
 
@@ -76,17 +82,9 @@
 # print((5 > 3 and 10 == 10) or (4 != 4 and 2 < 1))
 
 
-
-
 # print((10 == 10 and 23 != 23) or (34 == 12 and bool("hello")))
 
-
-
-
 # print(not (5 == 5 and 3 != 4) or (10 > 20))
-
-
-
 
 # a = 10 
 
