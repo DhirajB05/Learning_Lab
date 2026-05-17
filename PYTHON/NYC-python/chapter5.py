@@ -8,6 +8,8 @@
 
 
 # print(f"hello your age is {age+24}")
+# f is called the formatted string and its used to give the value in the program
+#-----------------------------------------------------
 
 #Arithmetic Operators
 #numbers - int , float , complex
@@ -51,7 +53,7 @@
 #comparision operators 
 
 #(==, > , < >= , <= , !=)
-
+#left and right side comparison is done.
 # print(16 == 16)
 # print(12 > 14)
 # print(12 < 45)
