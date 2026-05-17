@@ -1,24 +1,34 @@
-# a = " "
+# a = " " ord gives u the ascii value of the character ,character can be a number or a symbol or a letter even a space and emojis.
 
 # print(ord(a))
 
-a = "Hello how are you"
+#--------------------------------------------------------------------------------------------------------------
 
-#how 
+#String Slicing
+#a{start:stop:step}
 
-#you
+#S="College"
+#supose i want to print "Clee"
+# i will start from 0 and stop at 7 and step will be 2    
+#Note: stop number should be greater than start number and step should be greater than 0.
 
-#Hello
+#---------------------------------------------------------------------------------------------------------------
 
+#String Indexing
+#a="COLLEGE"
+#print CLEE
+#print(a[0 : 7: 2])
+# also this could have done by direct [::2]
 
+#-------------------------------------------------------------------------------------------------------------
 
-
-#type conversion 
+#Type Conversion 
 
 # a = "12.5"
 # a = int(a)
 
 # print(a)
+#this will give error because the string holds a float value and we are trying to convert it to int directly.
 
 #you can convert string if it holds valid integers
 #you can convert float values to int
@@ -31,7 +41,7 @@ a = "Hello how are you"
 # a = 123
 # b = 34.5
 # c = 12 + 34j
-# d = True
+# d = True ---> this one is bool.
 
 # a = str(a)
 # b = str(b)
