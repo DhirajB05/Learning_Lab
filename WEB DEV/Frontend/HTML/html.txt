@@ -1,0 +1,27 @@
+HTML - Hyper Text Markup Language
+//Boiler  Plate:
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+
+</body>
+</html>
+
+----------------------------------------------------------------------------
+
+<h>Hello</h>  --- Headings ranging from <h1> to <h6>, h1 biggest in size and h6 smallest.
+<p>Hello guys !!</p> --- For the paragraphs
+
+<b>-- bolding the text , <i>---italic tag , <u> --- underlining the the text
+for example:
+            <p>Hello guys, I'm <b>Dhiraj!</p> --- bolds Dhiraj.
+
+sup and sub scripts, sup for writing up technically to the power, sub at the bottom.
+for ex: <p>2<sup>2</sup> =4</p> --- basically 2 to the power 2
+        <p>H<sub>2</sub>O</p> --- H bottom 2 and then O.    
