@@ -25,3 +25,7 @@ for example:
 sup and sub scripts, sup for writing up technically to the power, sub at the bottom.
 for ex: <p>2<sup>2</sup> =4</p> --- basically 2 to the power 2
         <p>H<sub>2</sub>O</p> --- H bottom 2 and then O.    
+
+-----------------------------------------------------------------------------
+
+Attributes :
