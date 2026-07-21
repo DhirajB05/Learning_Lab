@@ -1,0 +1,23 @@
+---Boiler Plate---
+
+#include<bits/stdc++.h>
+using namespace std;
+int main(){
+  -------
+  -------
+  return 0;
+}
+-------------------
+if else statements:
+
+int main() {
+  int x;
+  cin>> x;
+  if(my conditions) {
+    cout<<"  "<<endl;
+  }
+  else if(){
+    cout << << endl;
+  }
+}
+--------------------

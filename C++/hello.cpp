@@ -1,5 +1,9 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
-  return 0;
+  int i=0;
+while (i<=5)
+
+
+return 0;
 }
