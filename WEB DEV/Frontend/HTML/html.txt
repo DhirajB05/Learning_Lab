@@ -27,5 +27,9 @@ for ex: <p>2<sup>2</sup> =4</p> --- basically 2 to the power 2
         <p>H<sub>2</sub>O</p> --- H bottom 2 and then O.    
 
 -----------------------------------------------------------------------------
+Lists:
+Ordered<ol> & unordered <ul> lists.
 
-Attributes :
+Anchor tag:
+<a target = "_blank" href="www.youtube.com">Youtube</a>
+
