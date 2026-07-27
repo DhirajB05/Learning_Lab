@@ -13,11 +13,8 @@ HTML - Hyper Text Markup Language
 </body>
 </html>
 
-----------------------------------------------------------------------------
 
 <h>Hello</h>  --- Headings ranging from <h1> to <h6>, h1 biggest in size and h6 smallest.
-<p>Hello guys !!</p> --- For the paragraphs
-
 <b>-- bolding the text , <i>---italic tag , <u> --- underlining the the text
 for example:
             <p>Hello guys, I'm <b>Dhiraj!</p> --- bolds Dhiraj.
@@ -31,5 +28,15 @@ Lists:
 Ordered<ol> & unordered <ul> lists.
 
 Anchor tag:
-<a target = "_blank" href="www.youtube.com">Youtube</a>
+<a target = "_blank" href="https://www.youtube.com/">Youtube</a> ---include with https
+--------------------------------------------------------------------------------
 
+form tag: 
+<form>
+    <input type =" " placeholder =" ">
+type can a text,password,date,checkbox,colour etc.
+
+we can see which all types all there when type :
+<input type="">
+
+</form>
