@@ -40,4 +40,22 @@ we can see which all types all there when type :
 <input type="">
 
 </form>
+----------------------------------------------------------------------------------
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <details>
+    <summary>All topics</summary>
+    
+can be anything i mean <pr> <li> etc...   summary is basically if l=click on that the subtopics below opens up,usually we see it in faqs of commanys etc.
+
+    </details>
+</body>
+</html>
+-------------------------------------------------------------------------------------
