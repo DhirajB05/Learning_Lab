@@ -40,3 +40,4 @@ we can see which all types all there when type :
 <input type="">
 
 </form>
+
